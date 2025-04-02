@@ -96,6 +96,7 @@ The following models were evaluated during the project:
     - *Elastic Net*  
     - *Lasso*  
     - *Ridge*
+ - **Principal Component Analysis**   
 
     # For different Scenerios these moels were tested and evaluated.
 
